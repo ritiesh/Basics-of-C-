@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1662122893 source:c:\c++\array\main.cpp
+	<iostream>
+
+1662123717 source:c:\c++\array\array1.cpp
+	<iostream>
+
